@@ -38,7 +38,7 @@ Follow these steps to run BingePlus locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bingeplus.git
+git clone https://github.com/zerrri/bingeplus.git
 cd bingeplus
 ```
 
